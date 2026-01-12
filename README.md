@@ -1,4 +1,4 @@
-📘 Student Marks Analyzer
+📘 Student Marks Analyzer 
 A simple Python program that analyzes students’ marks and generates useful statistics such as:
 ✅ Student-wise average marks
 ✅ Class topper (highest total marks)
